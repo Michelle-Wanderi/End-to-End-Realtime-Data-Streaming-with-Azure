@@ -1,4 +1,4 @@
-This is the documentation of the workflow of this project
+This is the documentation of the workflow.
 The project focuses on getting real-time updates of weather conditions of different places.
 
 ## Data Source
